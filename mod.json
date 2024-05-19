@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0-beta.26",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "alphadev.umbreon",
+	"name": "The Umbreon Room",
+	"developer": "alphadev",
+	"description": "Adds an umbreon button :3",
+	"resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    }
+}
